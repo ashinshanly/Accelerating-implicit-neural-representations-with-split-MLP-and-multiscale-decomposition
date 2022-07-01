@@ -1,0 +1,1 @@
+# Accelerating-implicit-neural-representations-with-split-MLP-and-multiscale-decomposition
